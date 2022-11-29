@@ -36,7 +36,6 @@
     ]
   },
   "devDependencies": {
-    "react-icons": "^4.7.1",
-    "serv": "^0.2.4"
+    "react-icons": "^4.7.1"
   }
 }
